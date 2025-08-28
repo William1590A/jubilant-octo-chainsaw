@@ -1,2 +1,8 @@
-Este é um arquivo de teste para o Git.
-O objetivo é verificar o funcionamento do versionamento.
+# 1. Crie uma nova pasta para o seu projeto
+mkdir meu-projeto
+
+# 2. Entre na pasta
+cd meu-projeto
+
+# 3. Inicie o repositório Git
+git init
