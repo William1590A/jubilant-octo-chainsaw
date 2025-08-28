@@ -5,4 +5,4 @@ mkdir meu-projeto
 cd meu-projeto
 
 # 3. Inicie o repositório Git
-git init
+git in
